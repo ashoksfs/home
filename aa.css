@@ -1,0 +1,50 @@
+body{
+				text-align: center;
+				background-repeat: no-repeat;
+				background-size:100%;
+				opacity: 100%;
+				visibility: 50%;
+
+			}
+			table{
+				color: greenyellow;
+				text-align: center;
+				font-family: impact;
+				border-color: blue;
+				background-color: ;
+				font-size: 20px;
+				letter-spacing: 1px;
+				width: 500px;
+				text-color: blue;
+				outline-color: red;
+				position: top right;
+			}
+			input{
+				text-align: center;
+				color: chocolate;
+				border-width: 3px;
+				border-radius: 30px;
+				border-color: blue;
+				letter-spacing: 1px;
+			}
+			input:hover{
+				background-color: aliceblue;
+				color: ;
+			}
+			button{
+				width: 150px;
+				height: 30px;
+				background-color:orangered;
+				color:black;
+				border:2px solid orangered;
+				font-size: 18px;
+				font-family:impact;
+				border-radius:20px;
+				letter-spacing: 1px;
+			}
+			button:hover{
+				background-color: silver;
+				color:black;
+				border-color: rgb(25, 200, 780);
+			}
+

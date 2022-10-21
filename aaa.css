@@ -1,0 +1,29 @@
+body{
+	background-color: black;
+	color: red;
+}
+ul{
+	list-style-type: none;
+}
+ul li{
+	float: left;
+	width: 140px;
+	height: 30px;
+	background-color: orange;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	border-radius: 100px;
+}
+ul li a{
+	text-decoration: 0px;
+	color: black;
+}
+hr{
+	line-height: 5px;
+	outline-color: red;
+}
+{
+	margin: 0px;
+	padding: 0px;
+}
